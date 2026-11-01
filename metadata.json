@@ -1,0 +1,6 @@
+{
+  "name": "HitecPulse",
+  "description": "The Steady Posts and Ads Fix for IT services firms in Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
